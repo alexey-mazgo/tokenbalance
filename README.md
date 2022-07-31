@@ -1,5 +1,3 @@
-![TokenBalance](http://i.imgur.com/43Blvht.jpg)
-
 # Run with Docker
 You can easily start [Token Balance with Docker](https://hub.docker.com/r/hunterlong/tokenbalance/builds/). Register for a free [Infura.io API Key](https://infura.io/signup) to use Token Balance without downloading the ethereum blockchain.
 ```
